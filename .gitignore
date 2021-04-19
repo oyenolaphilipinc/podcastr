@@ -32,3 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# Notes
+.txt
+
+#Vscode
+/.vscode
