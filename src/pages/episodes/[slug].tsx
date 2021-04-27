@@ -1,5 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from "next";
-import Head from "next/Head";
+
 import { api } from "../../services/api";
 import Image from "next/image";
 import Link from "next/link";
@@ -8,6 +8,8 @@ import { convertDurationToTimeString } from "../../utils/convertDurationToTimeSt
 
 import styles from "./episode.module.scss";
 import { usePlayer } from "../../contexts/PlayerContext";
+import React from "react";
+import Head from "next/head";
 
 type Episode = {
 	id: string;
