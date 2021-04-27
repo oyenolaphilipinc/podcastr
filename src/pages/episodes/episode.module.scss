@@ -82,5 +82,22 @@
 		p {
 			margin: 1.5rem 0;
 		}
+
+		a:link {
+			color: rgb(136, 136, 136);
+			background-color: transparent;
+			text-decoration: none;
+		}
+
+		a:hover {
+			color: rgb(67, 65, 65);
+			background-color: transparent;
+			text-decoration: underline;
+		}
+		a:visited {
+			color: rgb(136, 136, 136);
+			background-color: transparent;
+			text-decoration: none;
+		}
 	}
 }

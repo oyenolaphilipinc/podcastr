@@ -119,11 +119,11 @@
 			filter: brightness(0.7);
 		}
 
-		&.active {
+		&.isActive {
 			filter: invert(0.35) sepia(1) saturate(3) hue-rotate(100deg);
 		}
 
-		&.active:hover {
+		&.isActive:hover {
 			filter: brightness(0.6) invert(0.35) sepia(1) saturate(3)
 				hue-rotate(100deg);
 		}

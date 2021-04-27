@@ -1,0 +1,139 @@
+{
+	"episodes": [
+		{
+			"id": "a",
+			"title": "Fictional Podcast #10 | Sappheiros - Universe",
+			"members": "Sappheiros, Jonatan Pie",
+			"published_at": "2021-01-22 16:35:40",
+			"thumbnail": "https://images.unsplash.com/photo-1505816328275-34db3b7cef14?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80",
+			"description": "<p>This is a fictional podcast page, here you will find a description of the episode.You can hear the audio by playing on top (green button on the right).</br> Only the referring episode will play on this page. If you want to hear the entire playlist, go to the main page at the top (purple button on the left) and enjoy all the content.</p><p>Audio and image information: </br> Sappheiros has been creating electronic music since 2014. Since then he's garnered millions of streams and tens of thousands of fans, as well as having tracks featured by influencers such as 'MrSuicideSheep', and 'Audio Library'. While he had his start in the chillstep scene, he's steadily branched out into a variety of musical genres over the years.</p><p> For more follow him on <a href=\"http://www.youtube.com/c/Sappheiros/featured\" target=\"_blank\"a> YouTube.</a></p><p> Photo by <a href=\"https://unsplash.com/@r3dmax\" target=\"_blank\">MJonatan Pie</a> on <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a></p>",
+			"file": {
+				"url": "https://firebasestorage.googleapis.com/v0/b/podcastr-f608c.appspot.com/o/Sappheiros%20-%20Universe.m4a?alt=media&token=77a11a3d-53d9-4abd-896a-6e48bef658c0",
+				"type": "audio/x-m4a",
+				"duration": 219
+			}
+		},
+		{
+			"id": "b",
+			"title": "Fictional Podcast #09 | Sappheiros - Simple Things",
+			"members": "Sappheiros, Linda Segerfeldt",
+			"published_at": "2021-01-15 13:00:00",
+			"thumbnail": "https://images.unsplash.com/photo-1585664811087-47f65abbad64?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80",
+			"description": "<p>This is a fictional podcast page, here you will find a description of the episode.You can hear the audio by playing on top (green button on the right).</br> Only the referring episode will play on this page. If you want to hear the entire playlist, go to the main page at the top (purple button on the left) and enjoy all the content.</p><p>Audio and image information: </br> Sappheiros has been creating electronic music since 2014. Since then he's garnered millions of streams and tens of thousands of fans, as well as having tracks featured by influencers such as 'MrSuicideSheep', and 'Audio Library'. While he had his start in the chillstep scene, he's steadily branched out into a variety of musical genres over the years.</p><p> For more follow him on <a href=\"http://www.youtube.com/c/Sappheiros/featured\" target=\"_blank\"a> YouTube.</a></p><p> Photo by <a href=\"https://unsplash.com/@lindaseger\" target=\"_blank\">Linda Segerfeldt</a> on <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a></p>",
+			"file": {
+				"url": "https://firebasestorage.googleapis.com/v0/b/podcastr-f608c.appspot.com/o/Sappheiros%20-%20Simple%20Things.m4a?alt=media&token=afd9a551-89a1-4254-8ae5-ccc19a8a018d",
+				"type": "audio/x-m4a",
+				"duration": 200
+			}
+		},
+
+		{
+			"id": "c",
+			"title": "Fictional Podcast #08 | Sappheiros - Dawn",
+			"members": "Sappheiros, Lucas Davies",
+			"published_at": "2021-01-08 13:00:00",
+			"thumbnail": "https://images.unsplash.com/photo-1515016454727-48ddf26ac789?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+			"description": "<p>This is a fictional podcast page, here you will find a description of the episode.You can hear the audio by playing on top (green button on the right).</br> Only the referring episode will play on this page. If you want to hear the entire playlist, go to the main page at the top (purple button on the left) and enjoy all the content.</p><p>Audio and image information: </br> Sappheiros has been creating electronic music since 2014. Since then he's garnered millions of streams and tens of thousands of fans, as well as having tracks featured by influencers such as 'MrSuicideSheep', and 'Audio Library'. While he had his start in the chillstep scene, he's steadily branched out into a variety of musical genres over the years.</p><p> For more follow him on <a href=\"http://www.youtube.com/c/Sappheiros/featured\" target=\"_blank\"a> YouTube.</a></p><p> Photo by <a href=\"https://unsplash.com/@lucas_davies\" target=\"_blank\">Lucas Davies</a> on <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a></p>",
+			"file": {
+				"url": "https://firebasestorage.googleapis.com/v0/b/podcastr-f608c.appspot.com/o/Sappheiros%20-%20Dawn.m4a?alt=media&token=aa2941ff-77ff-4dad-a663-1ea9e4bd1aef",
+				"type": "audio/x-m4a",
+				"duration": 220
+			}
+		},
+		{
+			"id": "d",
+			"title": "Fictional Podcast #07 | Sappheiros - Embrace",
+			"members": "Sappheiros, Johannes Plenio",
+			"published_at": "2020-12-18 14:00:00",
+			"thumbnail": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+			"description": "<p>This is a fictional podcast page, here you will find a description of the episode.You can hear the audio by playing on top (green button on the right).</br> Only the referring episode will play on this page. If you want to hear the entire playlist, go to the main page at the top (purple button on the left) and enjoy all the content.</p><p>Audio and image information: </br> Sappheiros has been creating electronic music since 2014. Since then he's garnered millions of streams and tens of thousands of fans, as well as having tracks featured by influencers such as 'MrSuicideSheep', and 'Audio Library'. While he had his start in the chillstep scene, he's steadily branched out into a variety of musical genres over the years.</p><p> For more follow him on <a href=\"http://www.youtube.com/c/Sappheiros/featured\" target=\"_blank\"a> YouTube.</a></p><p> Photo by <a href=\"https://unsplash.com/@jplenio\" target=\"_blank\">Johannes Plenio</a> on <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a></p>",
+			"file": {
+				"url": "https://firebasestorage.googleapis.com/v0/b/podcastr-f608c.appspot.com/o/Sappheiros%20-%20Promise.m4a?alt=media&token=3c4fea20-6c1d-4413-b184-a4260314cc8c",
+				"type": "audio/x-m4a",
+				"duration": 277
+			}
+		},
+
+		{
+			"id": "e",
+			"title": "Fictional Podcast #06 | Sappheiros - Promise",
+			"members": "Sappheiros, Mathias P.R. Reding",
+			"published_at": "2020-12-04 15:00:00",
+			"thumbnail": "https://images.unsplash.com/photo-1619469969645-d0d9d5ec49a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+			"description": "<p>This is a fictional podcast page, here you will find a description of the episode.You can hear the audio by playing on top (green button on the right).</br> Only the referring episode will play on this page. If you want to hear the entire playlist, go to the main page at the top (purple button on the left) and enjoy all the content.</p><p>Audio and image information: </br> Sappheiros has been creating electronic music since 2014. Since then he's garnered millions of streams and tens of thousands of fans, as well as having tracks featured by influencers such as 'MrSuicideSheep', and 'Audio Library'. While he had his start in the chillstep scene, he's steadily branched out into a variety of musical genres over the years.</p><p> For more follow him on <a href=\"http://www.youtube.com/c/Sappheiros/featured\" target=\"_blank\"a> YouTube.</a></p><p> Photo by <a href=\"https://unsplash.com/@matreding\" target=\"_blank\">Mathias P.R. Reding</a> on <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a></p>",
+			"file": {
+				"url": "https://firebasestorage.googleapis.com/v0/b/podcastr-f608c.appspot.com/o/Sappheiros%20-%20Promise.m4a?alt=media&token=3c4fea20-6c1d-4413-b184-a4260314cc8c",
+				"type": "audio/x-m4a",
+				"duration": 159
+			}
+		},
+
+		{
+			"id": "f",
+			"title": "Fictional Podcast #05 | Sappheiros - Universe",
+			"members": "Sappheiros, Jonatan Pie",
+			"published_at": "2020-10-30 14:00:00",
+			"thumbnail": "https://images.unsplash.com/photo-1505816328275-34db3b7cef14?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80",
+			"description": "<p>This is a fictional podcast page, here you will find a description of the episode.You can hear the audio by playing on top (green button on the right).</br> Only the referring episode will play on this page. If you want to hear the entire playlist, go to the main page at the top (purple button on the left) and enjoy all the content.</p><p>Audio and image information: </br> Sappheiros has been creating electronic music since 2014. Since then he's garnered millions of streams and tens of thousands of fans, as well as having tracks featured by influencers such as 'MrSuicideSheep', and 'Audio Library'. While he had his start in the chillstep scene, he's steadily branched out into a variety of musical genres over the years.</p><p> For more follow him on <a href=\"http://www.youtube.com/c/Sappheiros/featured\" target=\"_blank\"a> YouTube.</a></p><p> Photo by <a href=\"https://unsplash.com/@r3dmax\" target=\"_blank\">MJonatan Pie</a> on <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a></p>",
+			"file": {
+				"url": "https://firebasestorage.googleapis.com/v0/b/podcastr-f608c.appspot.com/o/Sappheiros%20-%20Universe.m4a?alt=media&token=77a11a3d-53d9-4abd-896a-6e48bef658c0",
+				"type": "audio/x-m4a",
+				"duration": 219
+			}
+		},
+		{
+			"id": "g",
+			"title": "Fictional Podcast #04 | Sappheiros - Simple Things",
+			"members": "Sappheiros, Linda Segerfeldt",
+			"published_at": "2020-10-23 14:00:00",
+			"thumbnail": "https://images.unsplash.com/photo-1585664811087-47f65abbad64?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80",
+			"description": "<p>This is a fictional podcast page, here you will find a description of the episode.You can hear the audio by playing on top (green button on the right).</br> Only the referring episode will play on this page. If you want to hear the entire playlist, go to the main page at the top (purple button on the left) and enjoy all the content.</p><p>Audio and image information: </br> Sappheiros has been creating electronic music since 2014. Since then he's garnered millions of streams and tens of thousands of fans, as well as having tracks featured by influencers such as 'MrSuicideSheep', and 'Audio Library'. While he had his start in the chillstep scene, he's steadily branched out into a variety of musical genres over the years.</p><p> For more follow him on <a href=\"http://www.youtube.com/c/Sappheiros/featured\" target=\"_blank\"a> YouTube.</a></p><p> Photo by <a href=\"https://unsplash.com/@lindaseger\" target=\"_blank\">Linda Segerfeldt</a> on <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a></p>",
+			"file": {
+				"url": "https://firebasestorage.googleapis.com/v0/b/podcastr-f608c.appspot.com/o/Sappheiros%20-%20Simple%20Things.m4a?alt=media&token=afd9a551-89a1-4254-8ae5-ccc19a8a018d",
+				"type": "audio/x-m4a",
+				"duration": 200
+			}
+		},
+
+		{
+			"id": "h",
+			"title": "Fictional Podcast #03 | Sappheiros - Dawn",
+			"members": "Sappheiros, Lucas Davies",
+			"published_at": "2020-10-16 13:00:00",
+			"thumbnail": "https://images.unsplash.com/photo-1515016454727-48ddf26ac789?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+			"description": "<p>This is a fictional podcast page, here you will find a description of the episode.You can hear the audio by playing on top (green button on the right).</br> Only the referring episode will play on this page. If you want to hear the entire playlist, go to the main page at the top (purple button on the left) and enjoy all the content.</p><p>Audio and image information: </br> Sappheiros has been creating electronic music since 2014. Since then he's garnered millions of streams and tens of thousands of fans, as well as having tracks featured by influencers such as 'MrSuicideSheep', and 'Audio Library'. While he had his start in the chillstep scene, he's steadily branched out into a variety of musical genres over the years.</p><p> For more follow him on <a href=\"http://www.youtube.com/c/Sappheiros/featured\" target=\"_blank\"a> YouTube.</a></p><p> Photo by <a href=\"https://unsplash.com/@lucas_davies\" target=\"_blank\">Lucas Davies</a> on <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a></p>",
+			"file": {
+				"url": "https://firebasestorage.googleapis.com/v0/b/podcastr-f608c.appspot.com/o/Sappheiros%20-%20Dawn.m4a?alt=media&token=aa2941ff-77ff-4dad-a663-1ea9e4bd1aef",
+				"type": "audio/x-m4a",
+				"duration": 220
+			}
+		},
+		{
+			"id": "i",
+			"title": "Fictional Podcast #02 | Sappheiros - Embrace",
+			"members": "Sappheiros, Johannes Plenio",
+			"published_at": "2020-05-04 14:49:35",
+			"thumbnail": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+			"description": "<p>This is a fictional podcast page, here you will find a description of the episode.You can hear the audio by playing on top (green button on the right).</br> Only the referring episode will play on this page. If you want to hear the entire playlist, go to the main page at the top (purple button on the left) and enjoy all the content.</p><p>Audio and image information: </br> Sappheiros has been creating electronic music since 2014. Since then he's garnered millions of streams and tens of thousands of fans, as well as having tracks featured by influencers such as 'MrSuicideSheep', and 'Audio Library'. While he had his start in the chillstep scene, he's steadily branched out into a variety of musical genres over the years.</p><p> For more follow him on <a href=\"http://www.youtube.com/c/Sappheiros/featured\" target=\"_blank\"a> YouTube.</a></p><p> Photo by <a href=\"https://unsplash.com/@jplenio\" target=\"_blank\">Johannes Plenio</a> on <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a></p>",
+			"file": {
+				"url": "https://firebasestorage.googleapis.com/v0/b/podcastr-f608c.appspot.com/o/Sappheiros%20-%20Promise.m4a?alt=media&token=3c4fea20-6c1d-4413-b184-a4260314cc8c",
+				"type": "audio/x-m4a",
+				"duration": 277
+			}
+		},
+
+		{
+			"id": "j",
+			"title": "Fictional Podcast #01 | Sappheiros - Promise",
+			"members": "Sappheiros, Mathias P.R. Reding",
+			"published_at": "2020-04-09 20:00:00",
+			"thumbnail": "https://images.unsplash.com/photo-1619469969645-d0d9d5ec49a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+			"description": "<p>This is a fictional podcast page, here you will find a description of the episode.You can hear the audio by playing on top (green button on the right).</br> Only the referring episode will play on this page. If you want to hear the entire playlist, go to the main page at the top (purple button on the left) and enjoy all the content.</p><p>Audio and image information: </br> Sappheiros has been creating electronic music since 2014. Since then he's garnered millions of streams and tens of thousands of fans, as well as having tracks featured by influencers such as 'MrSuicideSheep', and 'Audio Library'. While he had his start in the chillstep scene, he's steadily branched out into a variety of musical genres over the years.</p><p> For more follow him on <a href=\"http://www.youtube.com/c/Sappheiros/featured\" target=\"_blank\"a> YouTube.</a></p><p> Photo by <a href=\"https://unsplash.com/@matreding\" target=\"_blank\">Mathias P.R. Reding</a> on <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a></p>",
+			"file": {
+				"url": "https://firebasestorage.googleapis.com/v0/b/podcastr-f608c.appspot.com/o/Sappheiros%20-%20Promise.m4a?alt=media&token=3c4fea20-6c1d-4413-b184-a4260314cc8c",
+				"type": "audio/x-m4a",
+				"duration": 159
+			}
+		}
+	]
+}

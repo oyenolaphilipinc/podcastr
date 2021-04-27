@@ -17,7 +17,7 @@ export function Player() {
 		currentEpisodeIndex,
 		isPlaying,
 		togglePlay,
-		setIsPlayingState,
+		setPlayingState,
 		playNext,
 		playPrevious,
 		hasNext,
@@ -114,8 +114,8 @@ export function Player() {
 						autoPlay
 						onEnded={handleEpisodeEnded}
 						loop={isLooping}
-						onPlay={() => setIsPlayingState(true)}
-						onPause={() => setIsPlayingState(false)}
+						onPlay={() => setPlayingState(true)}
+						onPause={() => setPlayingState(false)}
 						onLoadedMetadata={setupProgressListener}
 					/>
 				)}
@@ -124,7 +124,7 @@ export function Player() {
 					<button
 						type='button'
 						onClick={toggleShuffle}
-						className={isShuffling ? styles.active : ""}
+						className={isShuffling ? styles.isActive : ""}
 						disabled={!episode || episodeList.length === 1}>
 						<img src='/shuffle.svg' alt='Shuffle' />
 					</button>
@@ -154,7 +154,7 @@ export function Player() {
 					<button
 						type='button'
 						onClick={toggleLoop}
-						className={isLooping ? styles.active : ""}
+						className={isLooping ? styles.isActive : ""}
 						disabled={!episode}>
 						<img src='/repeat.svg' alt='Repeat' />
 					</button>
