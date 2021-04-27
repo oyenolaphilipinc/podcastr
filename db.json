@@ -93,20 +93,6 @@
 				"type": "audio/x-m4a",
 				"duration": 200
 			}
-		},
-
-		{
-			"id": "h",
-			"title": "Fictional Podcast #03 | Sappheiros - Dawn",
-			"members": "Sappheiros, Lucas Davies",
-			"published_at": "2020-10-16 13:00:00",
-			"thumbnail": "https://images.unsplash.com/photo-1515016454727-48ddf26ac789?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
-			"description": "<p>This is a fictional podcast page, here you will find a description of the episode.You can hear the audio by playing on top (green button).</br> Only the referring episode will play on this page. If you want to hear the entire playlist, go to the main page at the top (purple button) and enjoy all the content.</p><p>Audio and image information: </br> Sappheiros has been creating electronic music since 2014.</p><p> For more follow him on <a href=\"http://www.youtube.com/c/Sappheiros/featured\" target=\"_blank\"a> YouTube.</a></p><p> Photo by <a href=\"https://unsplash.com/@lucas_davies\" target=\"_blank\">Lucas Davies</a> on <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a></p>",
-			"file": {
-				"url": "https://firebasestorage.googleapis.com/v0/b/podcastr-f608c.appspot.com/o/Sappheiros%20-%20Dawn.m4a?alt=media&token=aa2941ff-77ff-4dad-a663-1ea9e4bd1aef",
-				"type": "audio/x-m4a",
-				"duration": 220
-			}
 		}
 	]
 }
